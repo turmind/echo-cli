@@ -1,4 +1,4 @@
-module amazonaws.com/demo-cli/multi-arch-demo
+module amazonaws.com/jdhuang/echo-cli
 
 go 1.17
 
